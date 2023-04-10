@@ -1,7 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquehce&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquehce&repo=Mario-Trailer-Website-project-&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquehce&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Redes Sociais
