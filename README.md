@@ -1,26 +1,126 @@
-# 💫 About Me:
-- 🔭 **Atualmente trabalhando em**: Análises exploratórias de grandes conjuntos de dados e projetos de Business Intelligence.
-- 👯 **Procurando colaborar em**: Projetos de Ciência de Dados Open Source e Dashboards interativos.
-- 🤝 **Procurando ajuda com**: Machine Learning aplicado e Engenharia de Dados (ETL/ELT).
-- 🌱 **Atualmente aprendendo**: Bibliotecas Pandas, NumPy, Scikit-learn e técnicas de Storytelling com Dados.
-- 💬 **Pergunte-me sobre**: Manipulação de dados com Python, consultas SQL complexas e Ética em Algoritmos.
-- ⚡ **Fun fact**: Consigo ver padrões em tudo (até na playlist do Spotify!).
+# Henrique Cipriani
 
+## 🚀 Sobre mim
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/henryhce) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henrique.c.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henrique-cipriani-9b006b173) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/henriquehce) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henriquecipriani@gmail.com) 
+Estudante de Ciência da Computação na UNIVALI, focado em desenvolvimento de software, backend, aplicações mobile, automações e análise de dados.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+Atualmente desenvolvendo projetos voltados para:
+- aplicações web;
+- APIs REST;
+- automação de processos;
+- sistemas mobile;
+- integração de dados;
+- dashboards;
+- soluções com IA.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=henriquehce&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=henriquehce&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquehce&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+Buscando oportunidades para crescer profissionalmente na área de tecnologia e participar de projetos que gerem impacto real.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=henriquehce&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Projetos em destaque
+
+### 📱 AGAR — Apoio Gestacional (TCC)
+Aplicativo mobile desenvolvido em parceria com o Ambulatório AGAR da UNIVALI para suporte e acompanhamento de gestantes de alto risco.
+
+**Tecnologias:**
+`React Native` `Expo` `Firebase`
+
+---
+
+### 🚌 Sistema de Transporte Universitário
+Sistema para gerenciamento de estudantes, motoristas e rotas universitárias.
+
+**Tecnologias:**
+`Laravel` `PHP` `MySQL` `React Native`
+
+---
+
+### 🎬 Tudo Sobre Cinema
+Projeto web inspirado em plataformas editoriais de cinema e avaliações de filmes.
+
+**Tecnologias:**
+`HTML` `CSS` `JavaScript`
+
+🔗 Portfolio:
+https://henriquehce.github.io/portfolio/
+
+---
+
+## 🧠 Atualmente estudando
+
+- PHP Backend
+- Engenharia e Análise de Dados
+- Computação em Nuvem
+- Engenharia de IA
+- Arquitetura de APIs
+- Banco de Dados
+- Engenharia de Software
+
+---
+
+## 🛠️ Tecnologias
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### Dados & IA
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 📚 Certificações e estudos
+
+Cursos realizados pela Alura envolvendo:
+- PHP e Orientação a Objetos;
+- Python;
+- SQL e SQLite;
+- Git e GitHub;
+- Data Science;
+- Power BI;
+- UX/UI;
+- Engenharia de Dados;
+- Engenharia de Software;
+- Estatística com Python.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquecipriani/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/henriquehce)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriquecipriani@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=henriquehce&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=henriquehce&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquehce&theme=tokyonight&hide_border=true&layout=compact)
